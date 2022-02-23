@@ -13,6 +13,7 @@ Il peut voir un produit :
 
 ![](images/produit.png)
 
+
 il peut ajouter un produit au panier ou au whitelist:
 
 ![](images/panier_whiteliste.png)
