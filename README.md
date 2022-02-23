@@ -9,7 +9,9 @@ L'utilisateur peut voir les produites disponnible dans la page d'accueil:
 ![](images/accueil.png)
 ![](images/accueil2.png)
 
+Il peut voir un produit :
 
+![](images/produit.png)
 
 
 il peut ajouter un produit au panier ou au whitelist:
