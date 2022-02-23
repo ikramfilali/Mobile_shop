@@ -2,7 +2,7 @@
 ## A propos du site
 Ce projet crée un site de commerce électronique de téléphones mobiles, en utilisant PHP et Mysql Database pour récupérer des produits et les afficher dans le projet.
 
-##Utilisation
+## Utilisation
 L'utilisateur peut voir les produites disponnible dans la page d'accueil: 
 
 
