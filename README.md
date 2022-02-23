@@ -18,3 +18,8 @@ il peut ajouter un produit au panier ou au whitelist:
 
 ![](images/panier_whiteliste.png)
 
+## Bibliographie
+
+https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4
+
+https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql
